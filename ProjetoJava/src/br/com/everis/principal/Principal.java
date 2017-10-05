@@ -8,6 +8,8 @@ public class Principal {
 
 		System.out.println(new ModuloOne().executa());
 		
+		System.out.println("#Meio Principal#");
+		
 		System.out.println("#Fim Principal#");
 	}
 
