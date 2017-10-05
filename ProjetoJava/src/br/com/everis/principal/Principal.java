@@ -12,6 +12,8 @@ public class Principal {
 		
 		System.out.println("agora");
 		
+		System.out.println("#Meio Principal#");
+		
 		System.out.println("#Fim Principal#");
 	}
 
