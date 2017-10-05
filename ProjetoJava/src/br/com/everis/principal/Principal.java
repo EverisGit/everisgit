@@ -6,6 +6,7 @@ public class Principal {
 		
 		System.out.println("#Incio Principal#");
 
+		System.out.println(new ModuloOne().executa());
 		
 		System.out.println("#Fim Principal#");
 	}
